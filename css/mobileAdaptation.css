@@ -21,15 +21,4 @@
     main {padding: 10px 10px;}
     main>img {width: 100%;}
     .copyright {font-size: 0.6em;}
-
-    /*.secondMenu>a {margin: 0 5px 0 5px;}*/
-    /*h1 {font-size: 1.5em;}*/
-    /*h2 {font-size: 1em;}*/
-    /*hr.index_3 {width: 50%;}*/
-    /*main.index_8 {width: 90%;}*/
-    /*footer {flex-direction: column; align-items: center;}*/
-    /*.copyright, .metrix, .socialNetworks {width: 90%;}*/
-    /*footer>section {padding: 0;}*/
-    /*.copyright {padding-top: 1em;}*/
-    /*.metrix {padding: 0; margin: 1em 0;}*/
 }
